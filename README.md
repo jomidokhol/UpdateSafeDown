@@ -1,108 +1,73 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SAFE+DOWN+v2.0.7" alt="Typing SVG" />
+  <img src="https://i.ibb.co.com/qF4HRxS0/1779210115592.png" width="100" alt="Safe Down Logo" />
 </p>
 
-<div align="center">
-  
-  ![version](https://img.shields.io/badge/version-2.0.7-000000?style=for-the-badge&logo=v&logoColor=white&labelColor=1a1a1a)
-  ![android](https://img.shields.io/badge/android-5.0%2B-000000?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a)
-  ![ios](https://img.shields.io/badge/ios-14.0%2B-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=1a1a1a)
-  ![license](https://img.shields.io/badge/license-proprietary-000000?style=for-the-badge&logo=law&logoColor=white&labelColor=1a1a1a)
-  
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=3&section=header&reversal=true" width="100%">
+<h1 align="center">🚀 Safe Down v2.1.1 <kbd>Beta</kbd></h1>
 
-</div>
+<p align="center">
+  <strong>The Ultimate Privacy-First Media Downloader & Player</strong>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.1.1--beta-blueviolet?style=for-the-badge&logo=github" alt="Version" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Platform-Android%20|%20iOS%20|%20Web-orange?style=for-the-badge" alt="Platform" />
+</p>
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=999999&center=true&vCenter=true&width=450&lines=DOWNLOAD+WITH+CONFIDENCE;YOUR+MEDIA+YOUR+RULES;SAFE+SECURE+RELIABLE" alt="Taglines" />
+---
 
-</div>
+## ✨ What's New in this Update?
+This beta release brings **Safe Down** to a whole new level with AI integration, enhanced background processing, and military-grade file protection.
 
-<br>
+### 🧠 Intelligence & Search
+- **More AI Features:** Integrated smarter logic for content detection and categorization.
+- **Enhanced Search Recommendations:** Predictive search to help you find what you need faster.
+- **Gemini API Integration:** Super-fast setup for Google's Gemini API key to unlock advanced content summaries.
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-000000?style=for-the-badge&labelColor=1a1a1a&logo=download&logoColor=white" alt="Download" />
-  </a>
-</div>
+### 🎬 Media & Playback Experience
+- **Advanced Background Audio:** Upscaled playback engine for uninterrupted listening.
+- **Video-to-Audio Background Play:** Now enjoy video soundtracks in the background with enhanced stability.
+- **Fluid Animations:** Smoother transitions and background visual effects during playback.
 
-<br>
+### 📥 Download Engine Pro
+- **Youtube-DL Update 34:** Core engine updated to the latest standard for maximum compatibility.
+- **Multiple Concurrent Downloads:** Why wait? Download multiple files at the same time.
+- **Sub-pages on Download Page:** Better organization for your active and completed tasks.
+- **Anti-Protection System:** Bypasses restrictive file protections to ensure your downloads never fail.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=3&section=header&reversal=false" width="100%">
+### ⚡ Performance & Optimization
+- **Cache Optimized:** Significantly reduced storage footprint and faster loading.
+- **Fast Processing:** Under-the-hood tweaks for instant file merging and conversion.
+- **High Regulation File Size:** Optimized high-resolution files to save space without losing quality.
+- **Fast Media Addition:** Media is now added to your device's default gallery/media player instantly.
 
-<br>
+### 🌐 Browser & Access
+- **Expanded Permissions:** Seamless browser access to Microphone, Camera, and Files for a complete web experience.
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=1&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%9A%A1+WHAT'S+NEW+IN+v2.0.7+%E2%9A%A1" alt="What's New" />
-</h1>
+---
 
-<br>
+## 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube_DL-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Optimize-Performance-green?style=for-the-badge&logo=speedtest" />
+</p>
 
-<div align="center">
+---
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/🧠-000000?style=for-the-badge&labelColor=1a1a1a" width="100"> | **AI Feature 2.0** | Next-gen intelligent algorithms |
-| <img src="https://img.shields.io/badge/🔍-000000?style=for-the-badge&labelColor=1a1a1a" width="100"> | **Smart Search** | Powerful recommendation engine |
-| <img src="https://img.shields.io/badge/🎵-000000?style=for-the-badge&labelColor=1a1a1a" width="100"> | **Background Audio** | Upscaled playback quality |
-| <img src="https://img.shields.io/badge/🎬-000000?style=for-the-badge&labelColor=1a1a1a" width="100"> | **Video Audio BG** | Audio-only background mode |
-| <img src="https://img.shields.io/badge/⚡-000000?style=for-the-badge&labelColor=1a1a1a" width="100"> | **Cache Boost** | Enhanced optimization layer |
-| <img src="https://img.shields.io/badge/📥-000000?style=for-the-badge&labelColor=1a1a1a" width="100"> | **YouTube DL** | Latest engine update |
-| <img src="https://img.shields.io/badge/🪣-000000?style=for-the-badge&labelColor=1a1a1a" width="100"> | **Storage Bucket** | Smart file organization |
-| <img src="https://img.shields.io/badge/🌐-000000?style=for-the-badge&labelColor=1a1a1a" width="100"> | **Browser Access** | Mic, Media & Camera |
+## 🚀 Getting Started
+1. **Update:** Ensure you are on version `2.1.1-beta`.
+2. **AI Setup:** Go to Settings > AI Integration and paste your **Gemini API Key**.
+3. **Permissions:** Grant Mic/Camera access when prompted in the browser for full functionality.
 
-</div>
+---
 
-<br>
+<p align="center">
+  <b>Safe Down</b> • Developed with ❤️ for the Community <br>
+  <i>"Safe. Fast. Unlimited."</i>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=3&section=header&reversal=true" width="100%">
-
-<br>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=1&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%94%A5+FEATURE+SPOTLIGHT+%F0%9F%94%A5" alt="Spotlight" />
-</h1>
-
-<br>
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║   🧠  AI 2.0 Engine  ────────────────────────── ✨    ║
-║   ────────────────────────────────────────────────    ║
-║   Smarter predictions, faster processing,             ║
-║   adaptive learning that evolves with you.            ║
-║                                                       ║
-║   🔍  Search & Recommend  ────────────────────── ✨   ║
-║   ────────────────────────────────────────────────    ║
-║   Discover content like never before with             ║
-║   context-aware recommendations.                      ║
-║                                                       ║
-║   🎵  Background Audio Pro  ──────────────────── ✨   ║
-║   ────────────────────────────────────────────────    ║
-║   Crystal-clear audio while multitasking.             ║
-║   Video's audio now plays seamlessly in BG.           ║
-║                                                       ║
-║   ⚡  Cache Optimizer  ───────────────────────── ✨   ║
-║   ────────────────────────────────────────────────    ║
-║   40% faster load times. Less storage.                ║
-║   More speed. Pure efficiency.                        ║
-║                                                       ║
-║   🪣  Storage Bucket  ────────────────────────── ✨   ║
-║   ────────────────────────────────────────────────    ║
-║   Intelligent file routing and organization           ║
-║   that just makes sense.                              ║
-║                                                       ║
-║   🌐  Full Browser Access  ───────────────────── ✨   ║
-║   ────────────────────────────────────────────────    ║
-║   Mic, media, camera — all at your fingertips         ║
-║   for the ultimate web experience.                    ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
+<p align="center">
+  <a href="#top">Back to top ⬆️</a>
+</p>
