@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![version](https://img.shields.io/badge/version-2.0.4-000000?style=for-the-badge&logo=v&logoColor=white&labelColor=1a1a1a)
+  ![version](https://img.shields.io/badge/version-2.0.7-000000?style=for-the-badge&logo=v&logoColor=white&labelColor=1a1a1a)
   ![android](https://img.shields.io/badge/android-5.0%2B-000000?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a)
   ![ios](https://img.shields.io/badge/ios-14.0%2B-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=1a1a1a)
   ![license](https://img.shields.io/badge/license-proprietary-000000?style=for-the-badge&logo=law&logoColor=white&labelColor=1a1a1a)
